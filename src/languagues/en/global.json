@@ -1,0 +1,36 @@
+{
+  "title": "| Editor",
+  "spotify": {
+    "current": "Recently listened"
+  },
+  "loading": "Loading...",
+  "online": {
+    "online": "Online",
+    "offline": "Offline",
+    "dnd": "Busy",
+    "since": "Since"
+  },
+  "birthday": {
+    "age": "age",
+    "years-old": "years old",
+    "time": "days to my birthday"
+  },
+  "github": "My Github profile, where I upload my projects.",
+  "projectsandtest": {
+    "title": "Projects and tests",
+    "description": "Here you can find some of my projects, tests or experiments."
+  },
+  "projects": {
+    "title": "Projects",
+    "all": "All",
+    "vfx": "VFX",
+    "hosting": "Hosting",
+    "youtube": "Youtube",
+    "management": "Management"
+  },
+  "functions": {
+    "changeTheme": "Change theme",
+    "goToProjects": "Go to projects"
+  },
+  "exp": "years of experience"
+}
